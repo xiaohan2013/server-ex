@@ -4,3 +4,6 @@
 [submodule "server-ex__shell"]
 	path = server-ex__shell
 	url = https://github.com/xiaohan2013/server-ex__shell.git
+[submodule "server-ex__python"]
+	path = server-ex__python
+	url = https://github.com/xiaohan2013/server-ex__python.git
