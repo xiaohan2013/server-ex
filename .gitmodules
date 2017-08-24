@@ -7,3 +7,6 @@
 [submodule "server-ex__python"]
 	path = server-ex__python
 	url = https://github.com/xiaohan2013/server-ex__python.git
+[submodule "server-ex__go"]
+	path = server-ex__go
+	url = https://github.com/xiaohan2013/server-ex__go.git
