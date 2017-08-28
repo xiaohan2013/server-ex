@@ -10,3 +10,6 @@
 [submodule "server-ex__go"]
 	path = server-ex__go
 	url = https://github.com/xiaohan2013/server-ex__go.git
+[submodule "server-ex__pass"]
+	path = server-ex__pass
+	url = https://github.com/xiaohan2013/server-ex__pass.git
