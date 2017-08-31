@@ -13,3 +13,6 @@
 [submodule "server-ex__pass"]
 	path = server-ex__pass
 	url = https://github.com/xiaohan2013/server-ex__pass.git
+[submodule "server-ex__linux"]
+	path = server-ex__linux
+	url = https://github.com/xiaohan2013/server-ex__linux.git
