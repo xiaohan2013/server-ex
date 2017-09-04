@@ -19,3 +19,6 @@
 [submodule "server-ex__db"]
 	path = server-ex__db
 	url = https://github.com/xiaohan2013/server-ex__db.git
+[submodule "server-ex__design"]
+	path = server-ex__design
+	url = https://github.com/xiaohan2013/server-ex__design.git
